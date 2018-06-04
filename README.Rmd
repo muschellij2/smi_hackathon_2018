@@ -1,0 +1,16 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# smi_hackathon_2018
+
+Slides for a short presentation for the [SMI 2018](https://smi2018.netlify.com/) R package hackathon.  Covers Travis/Appveyor continuous integration tools, code coverage, and check R packages.
