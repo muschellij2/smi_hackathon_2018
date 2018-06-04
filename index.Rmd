@@ -127,6 +127,14 @@ after_success:
 - RStudio → Build → Build Source Package
   - builds vignettes, creates a `.tar.gz`, upload to https://cran.r-project.org/submit.html
 
+## Submitting to Neuroconductor
+
+https://neuroconductor.org/submit-package
+
+- Must be a GitHub repo
+
+<img src="figures/neuroc_workflow.png" style="width:75%; display: block; margin: auto;" alt="flow"> 
+
   
 
 ## Solutions to Common Problems
