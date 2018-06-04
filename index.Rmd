@@ -92,7 +92,6 @@ Check the package for stability
 - uses current Neuroconductor Packages
 
 </div> 
-  </p>
 </div>    
   <div id="right_col2">
   
@@ -129,21 +128,20 @@ after_success:
 
 ----
 <div class="container"> 
-<div id="left_col2"> 
+<div id="left_col"> 
   <h2>Submitting to Neuroconductor</h2>
   
-<div style='font-size: 28pt;'>
-  
+
 https://neuroconductor.org/submit-package
 
 - Must be a GitHub repo
+- Verify via maintainer email
+- See https://neuroconductor.org/list-packages/all
 
-</div> 
-  </p>
 </div>    
-  <div id="right_col2">
+  <div id="right_col">
   
-  <img src="figures/neuroc_workflow.png" style="width:75%; display: block; margin: auto;" alt="flow"> 
+  <img src="figures/neuroc_workflow.png" style="width:95%; display: block; margin: auto;" alt="flow"> 
   </div>
 </div>
 
